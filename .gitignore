@@ -1,3 +1,6 @@
 # Ignore vim backup files
 *.~
 
+# Ignore svg
+*.svg
+
